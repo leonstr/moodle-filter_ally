@@ -244,6 +244,6 @@ Feature: When the ally filter is enabled ally place holders are inserted when ap
 
     Examples:
       | forumtypestr      | forumtype         | slasharguments |
-      | Forum             | forum             | 1              |
-      | Forum             | forum             | 0              |
+      | forum             | forum             | 1              |
+      | forum             | forum             | 0              |
 
